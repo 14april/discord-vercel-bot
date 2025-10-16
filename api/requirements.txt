@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+PyNaCl
+python-dotenv
